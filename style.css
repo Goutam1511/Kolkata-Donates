@@ -1,0 +1,76 @@
+body{
+		background-image:url("img/29330-abstract-cobalt-blue-triangle-background-graphics.jpg");
+	background-repeat:no-repeat;
+	
+}
+
+#chakra{
+transform: translateY(-400px);
+margin-right: 50px;
+width: 200px;
+height: 200px;
+animation: drive 3s ;
+animation-fill-mode: forwards;
+}
+img#chakra2{
+text-align: center;
+top: 0px;
+bottom: 0px;
+opacity: 0;
+animation: fade2 ;
+animation-duration: 3s;
+animation-delay: 4s;
+animation-iteration-count: 1;
+animation-fill-mode: forwards;
+}
+#chakra3{
+  opacity: 0;
+  animation: fade3 3s 7s;
+  color: #B71c1c;
+  text-decoration-style: dashed;
+  border-radius: 30px;
+  text-align: center;
+  border-style: solid;
+  font-size: 120%;
+  border-color: #B71C1C;
+  background-color:#ffffff;
+  height: 10px;
+  padding-bottom: 20PX;
+  padding-top: 10PX;
+  margin-top: 100px;
+  margin-left: 550px;
+  width: 200px;
+  animation-name: fade2;
+  animation-duration: 3s;
+  animation-delay: 4s;
+  animation-iteration-count: 1;
+  animation-fill-mode:forwards;
+}
+#chakra3:hover{
+ background-color:#B71C1C;
+ color:#ffffff;
+ cursor:pointer;
+}
+@keyframes drive{
+
+  from{transform: translateY(-400px);}
+  to{transform: translateY(50px);}
+}
+#chakra:hover {
+ background-image: url(C:\Users\Chakradhar\Pictures\Saved Pictures\coollogo_com-85571393.png);
+
+}
+@keyframes fade2 {
+
+  from{opacity: 0;}
+  to{opacity: 1;}
+  opacity 1;
+
+}
+@@keyframes fade {
+  from{filter: blur(0px);
+    -webkit-filter:blur(0px);}
+    to{filter: blur(5px);
+      -webkit-filter:blur(5px);}
+
+}

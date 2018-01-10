@@ -1,0 +1,33 @@
+<div><p>
+<h1>General Requirements for Blood Donation</h1>
+<ul><h3>Blood Donor Qualifications: (English)</h3>
+	<div > <img class="img-circle img-responsive" src="img/blood-donor-requirements-criteria.jpg" style="width:200px;height:200px;float:right"></div>
+    <li>Age: 18 (16 and 17 year-olds can donate with a Minor Donor Permission Form signed by a parent or guardian)</li>
+    <li>Weight: At least 110 lbs
+    (different requirements for 16-22 year-olds – see Blood Donor Qualifications)</li>
+    <li>Health: General good health</li>
+    <li>Identification: Valid identification such as a driver’s license,DMV identification card, passport, etc.</li>
+
+<h3>Quick Tips:</h3>
+
+    Diet: A well-balanced meal is recommended within four hours of donation.</li>
+    Hydrate: Being well-hydrated helps donors maintain blood volume and can prevent dizziness or fainting.</li>
+
+<h3>Donor Giving Blood</h3>
+Do not donate if any of the following apply to you:
+
+    <li>HIV/AIDS: You are a person with symptoms or laboratory evidence of HIV infection.</li>
+    <li>Cancer: Hematological, ie: Hodgkin, Leukemia, Lymphomas.</li>
+    <li>Hepatitis: A history of the disease after the age of 11, or a positive lab test for the virus.</li>
+    <li>Organ Failure: Kidney, lung or liver failure.</li>
+    <li>Recreational Drug Use (by injection): Having injected yourself with drugs not prescribed by a physician.</li>
+    <li>United Kingdom: You have visited or lived in England, Scotland, Wales, Northern Ireland, Isle of Man, Channel Islands, Gibraltar or Falkland Islands for a total of 3 months or more from 1980 thru 1996.</li>
+    <li>European Countries: If you have spent a cumulative of 5 years or more since 1980.
+    <li>U.S. Military/Dependents/Civilian Military Employee: If you are U.S. Military/Dependent/Civilian Military Employee who spent a cumulative of six months or more between 1980 thru 1996 associated with a military base in Spain, Portugal, Turkey, Italy or Greece, and/or 1980 thru 1990 in Belgium, the Netherlands, Germany.</li>
+    <li>Sexual History: You have engaged in sex for money or drugs since 1977.</li>
+
+
+<h3>Travel</h3>
+
+    Travel to certain countries may temporarily restrict you from donating blood. Please call 888-393-4483 for more information</li>
+</p></div>

@@ -1,0 +1,61 @@
+﻿<div style="padding:20px;"><p>
+<h1>Types Of Blood Diseases</h1>
+
+<p>There are many different blood diseases that are diagnosed and treated by hematologists. Some of these are benign (non-cancerous) and others are types of blood cancer. They can involve one or more of the three main types of blood cells (red blood cells, white blood cells, and platelets). They can also involve blood proteins involved in clotting. Not every blood disorder requires treatment. This is a list of some of the more common blood disorders treated by community hematologists.</p>
+<div style="padding: 15px; float:left;"> <img class="img-circle img-responsive" src="img/imag.jpg" style="width:200px;height:200px;float:left;
+    border: 1px solid blue;
+    border-radius: 4px;"></div>
+<ol>
+<h3><b>Red Blood Cell Disorders</b> – Deficiencies or abnormalities in the red blood cells.</h3>
+
+<li><b>Anemia </b>– A deficiency in the number of red blood cells often causing weakness and pallor. There are many potential causes of anemia.
+<div style="padding: 15px; float:left;"> <img class="img-circle" src="img/images.jpg"style="width:200px;height:200px;float:left;
+    border: 1px solid blue;
+    border-radius: 4px;"</div>
+
+
+
+     <li><b>Aplastic Anemia</b> – A type of anemia occurring when the bone marrow fails to produce enough of all three types of blood cells: red cells, white cells, and platelets. The Aplastic Anemia & MDS International Foundation, Inc. is a good resource to learn more about this disorder..
+
+     <li><b>Sickle Cell Anemia</b> – an inherited blood disorder where blood cells are sickle (or “C”) shaped and block blood flow. Clumps of sickle cells block blood flow to the limbs and organs, and can cause pain, serious infection, and organ damage. The American Sickle Cell Anemia Association, a nonprofit organization providing a wide range of services to those individuals and families with either sickle cell anemia, sickle cell trait, or variants of the disease.
+
+
+     <li><b>Thalassemia</b> – A hereditary blood disorder affecting hemoglobin, the molecule that carries oxygen. At About Thalassemia (part of Cooley’s Anemia Foundation) patients can find general information about the different types of Thalassemia.
+
+     <b>White Blood Cell Disorders</b> – (abnormalities in the production of white blood cells)
+
+     <li><b>Myelofibrosis</b> – A chronic disease manifested by fibrous material in the bone marrow, anemia and an enlarged spleen. Also known as agnogenic myeloid metaplasia.
+
+     <li><b>Myeloma</b> – a cancer of plasma cells, a type of white bloods cell. Find more information at the International Myeloma Foundation.
+
+     <li><b>Myelodysplasia</b> – A group of disorders where bone marrow does not function properly and does not produce enough normal blood cells. The Myelodysplastic (MDS) Syndromes Foundation is devoted to the prevention, treatment, and study of the myelodysplastic syndromes.
+
+
+<div > <img src="img/ovi_malaria02_400.jpg"style="width:10%;height:10%;float:right"></div>
+
+
+<li><b>Leukemia</b> – A group of diseases where white blood cells grow uncontrollably. These diseases are classified according to how quickly the disease grows and the type of cells affected.
+
+<li><b>Lymphoma</b> – A tumor that arises in the lymph nodes or in other lymphoid tissue.
+
+The Leukemia & Lymphoma Society offers additional information about leukemia, lymphoma, and other blood disorders.
+
+<h3><b>Platelet Disorders</b> – (usually a deficiency in platelets leading to easy bruising and excessive bleeding)</h3>
+
+<li><b>Immune Thrombocytopenic Purpura (ITP) </b>– A clinical syndrome where a decreased number of platelets causes bleeding, and easy bruising. ITP Science includes information about diagnosing ITP, treatment goals, as well as helpful information for patients recently diagnosed with the disorder.
+
+<li><b>Essential Thrombocytosis</b> – A disorder in which platelets are overproduced, which can lead to both blood clotting and bleeding.
+
+<h3><b>Clotting Disorders</b></h3><br><h5> <h3>– (Problems affecting the ability to clot blood, leading to excessive bleeding or excessive clotting. The Coagulation Factors site features articles and news on coagulation disorders, and also includes a health directory and information on clinical trials for coagulation disorder patients.)</h3></h5>
+<div > <img src="img/P-hemophilia-enHD-AR1.jpg"style="width:20%;height:30%;float:right;border-style: double"></div>
+
+
+<li><b>Hemophilia</b> – A bleeding disorder caused by a problem in one of the factors of blood clotting. The National Hemophilia Foundation, focusing on three major strategic initiatives: research support and promotion; health education and training; and advocacy and community service.
+
+
+<li><b>Von Willebrand Disease</b> – A hereditary disease where there is a deficiency of the von Willebrand factor, which is a factor that affects platelet function. This often leads to excessive bleeding.
+
+<li><b>Hypercoagulable states</b> – These are inherited or acquired abnormalities that increase a person’s risk of developing a blood clot. Examples include Factor V Leiden mutations, Protein C deficiency, and Lupus anticoagulant.
+
+<li><b>Hemochromatosis</b> – A disorder where patients absorb extra amounts of iron from their daily diet and over time. The excess iron can build up in organs such as the heart, liver, and pancreas. If left untreated, diabetes, heart disease and liver failure can result. The Iron Disorders Institute provides information about iron disorders as well as preventions, publications, diet suggestions, and more.
+</p></div>

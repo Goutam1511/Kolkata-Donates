@@ -1,0 +1,73 @@
+<div>
+					<!form id="form1" style="border:1px solid #ccc">
+						<div class="container">
+							<label><b>Name</b></label>
+							<input type="text" placeholder="Enter Name" name="name" id="dname" required="required"/>
+							<br>
+							<label><b>Email</b></label>
+							<input type="email" placeholder="Enter Email" name="email" id="email" required="required"/>
+							<br>
+							<div id="checkmobile">
+								<input type="checkbox" checked="checked" id="cbx"> Share my mobile number
+							</div>
+							<br>
+							<div id="mobile">
+								<label><b>Mobile number/Contact information</b></label>
+								<input type="text" placeholder="Enter a 10 digit valid mobile number" id="num" name="number"/>
+							</div>
+							<div id="group" name="group">
+								<label><b>Select a Blood Group :</b></label>
+								<select name="group" id="grp" required>
+									<option value="A+">A+</option>
+									<option value="A-">A-</option>
+									<option value="B+">B+</option>
+									<option value="B-">B-</option>
+									<option value="AB+">AB+</option>
+									<option value="AB-">AB-</option>
+									<option value="O+">O+</option>
+									<option value="O-">O-</option>
+								</select>
+								<br>
+								<label><b>Select a Location : ( Incase you're not finding the exact town/village , choose the nearest city )</b></label>
+								<select name="location" id="loc" required>
+									<option value="Kolkata">Kolkata</option>
+									<option value="Asansol">Asansol</option>
+									<option value="Siliguri">Siliguri</option>
+									<option value="Durgapur">Durgapur</option>
+									<option value="Malda">Malda</option>
+									<option value="Bardhaman">Bardhaman</option>
+									<option value="Baharampur">Baharampur</option>
+									<option value="Habra">Habra</option>
+									<option value="Kharagpur">Kharagpur</option>
+									<option value="Cooch Behar">Cooch Behar</option>
+									<option value="Shantipur">Shantipur</option>
+									<option value="Dankuni">Dankuni</option>
+									<option value="Dhulian">Dhulian</option>
+									<option value="Ranaghat">Ranaghat</option>
+									<option value="Haldia">Haldia</option>
+									<option value="Raigunj">Raigunj</option>
+									<option value="Krishnanagar">Krishnanagar</option>
+									<option value="Nabadwip">Nabadwip</option>
+									<option value="Medinipur">Medinipur</option>
+									<option value="Jalpaiguri">Jalpaiguri</option>
+									<option value="Balurghat">Balurghat</option>
+									<option value="Basirghat">Basirghat</option>
+									<option value="Bankura">Bankura</option>
+									<option value="Chakdaha">Chakdaha</option>
+									<option value="Darjeeling">Darjeeling</option>
+									<option value="Alipurduar">Alipurduar</option>
+									<option value="Purulia">Purulia</option>
+									<option value="Ashoknagar Kalyangarh">Ashoknagar Kalyangarh</option>
+									<option value="Jangipur">Jangipur</option>
+									<option value="Bongaon">Bongaon</option>
+								</select>
+							</div>
+							<p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+
+							<div class="clearfix">
+								<button type="button" class="cancelbtn" id="cancelbtn">Cancel</button>
+								<button type="submit" class="signupbtn" id="signupbtn">Sign Up</button>
+							</div>
+						</div>
+					<!/form>
+				</div>

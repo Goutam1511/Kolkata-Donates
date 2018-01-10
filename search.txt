@@ -1,0 +1,52 @@
+<div class="container">
+	<p><div class="container">
+		<label><b>Select a Blood Group :</b></label>
+		<select required>
+			<option value="A+">A+</option>
+			<option value="A-">A-</option>
+			<option value="B+">B+</option>
+			<option value="B-">B-</option>
+			<option value="AB+">AB+</option>
+			<option value="AB-">AB-</option>
+			<option value="O+">O+</option>
+			<option value="O-">O-</option>
+		</select>
+	</div></p>
+	<p><div class="container">
+		<label><b>Select a Location : ( Incase you're not finding the exact town/village , choose the nearest city )</b></label>
+								<select required>
+									<option value="Kolkata">Kolkata</option>
+									<option value="Asansol">Asansol</option>
+									<option value="Siliguri">Siliguri</option>
+									<option value="Durgapur">Durgapur</option>
+									<option value="Malda">Malda</option>
+									<option value="Bardhaman">Bardhaman</option>
+									<option value="Baharampur">Baharampur</option>
+									<option value="Habra">Habra</option>
+									<option value="Kharagpur">Kharagpur</option>
+									<option value="Cooch Behar">Cooch Behar</option>
+									<option value="Shantipur">Shantipur</option>
+									<option value="Dankuni">Dankuni</option>
+									<option value="Dhulian">Dhulian</option>
+									<option value="Ranaghat">Ranaghat</option>
+									<option value="Haldia">Haldia</option>
+									<option value="Raigunj">Raigunj</option>
+									<option value="Krishnanagar">Krishnanagar</option>
+									<option value="Nabadwip">Nabadwip</option>
+									<option value="Medinipur">Medinipur</option>
+									<option value="Jalpaiguri">Jalpaiguri</option>
+									<option value="Balurghat">Balurghat</option>
+									<option value="Basirghat">Basirghat</option>
+									<option value="Bankura">Bankura</option>
+									<option value="Chakdaha">Chakdaha</option>
+									<option value="Darjeeling">Darjeeling</option>
+									<option value="Alipurduar">Alipurduar</option>
+									<option value="Purulia">Purulia</option>
+									<option value="Ashoknagar Kalyangarh">Ashoknagar Kalyangarh</option>
+									<option value="Jangipur">Jangipur</option>
+									<option value="Bongaon">Bongaon</option>
+								</select>
+	</div></p>
+	<br>
+	<div class="container"><button class="btn btn-primary">Search Donor</button></div>
+</div>
